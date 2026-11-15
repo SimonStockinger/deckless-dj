@@ -17,3 +17,7 @@ alt + key -> Record makro into key. Activate with @key
 [Usable for presetting adjustments and playing them all at once]
 
 Show 
+
+
+- BACKSPACE -> Undo last action
+- Crl + BACKSPACE -> Redo last undo
