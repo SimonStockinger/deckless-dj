@@ -1,0 +1,1 @@
+//! symphonia background track decoding.

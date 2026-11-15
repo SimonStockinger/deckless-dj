@@ -1,0 +1,2 @@
+// WaveformCanvas component
+export {};
